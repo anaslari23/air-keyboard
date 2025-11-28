@@ -1,4 +1,4 @@
-# Air Keyboard V2
+# Air Keyboard 
 
 Air Keyboard V2 is a futuristic, touch-free virtual keyboard application that allows you to type using hand gestures in mid-air. Powered by computer vision and machine learning, it transforms your webcam into a powerful input device, offering a "Minority Report" style interaction experience.
 
